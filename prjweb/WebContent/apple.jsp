@@ -7,12 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>마스터</h1>
-<<<<<<< HEAD
-
-<a href="banana.jsp">바나나</a>
-=======
-<a href="apple.jsp">apple</a>
->>>>>>> 9c171bf7640acfd67b97411256a6761ca1ed056d
+apple 도착
 </body>
 </html>
