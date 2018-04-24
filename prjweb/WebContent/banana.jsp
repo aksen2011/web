@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>마스터</h1>
-
-<a href="banana.jsp">바나나</a>
+여기는바나나
 </body>
 </html>
